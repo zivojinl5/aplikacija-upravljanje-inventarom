@@ -2,7 +2,17 @@
 
 Ovaj projekat je full-stack CRUD (Create, Read, Update, Delete) aplikacija za upravljanje stavkama. Projekat se sastoji od Spring Boot backend-a i React frontend-a.
 
-![Screenshot aplikacije](https://github.com/zivojinl5/aplikacija-upravljanje-inventarom/raw/89bab1493c53a23e3036b5cdd85983b323eccc85/slika.png)  
+![Screenshot aplikacije 1](https://github.com/zivojinl5/aplikacija-upravljanje-inventarom/blob/7d8bca8b33ce63393f678b0fd42a17856bfe1de3/slika%201.png)   
+
+slika 1: Aplikacija, prikaz tabele
+
+![Screenshot aplikacije 2](https://github.com/zivojinl5/aplikacija-upravljanje-inventarom/blob/7d8bca8b33ce63393f678b0fd42a17856bfe1de3/slika%202.png)  
+
+slika 2: Ažuriranje
+
+![Screenshot aplikacije 3](https://github.com/zivojinl5/aplikacija-upravljanje-inventarom/blob/7d8bca8b33ce63393f678b0fd42a17856bfe1de3/slika%203.png)  
+
+slika 3: Ažurirana vrednost u tabeli
 
 
 ## Podešavanje baze podataka  
